@@ -101,6 +101,11 @@ click on actions → security → modify IAM role option
 ![modify-role](./.Images/Modify_IAM_Role2.png)
 ### $\color{red} \textbf {Step 5 → Building Infrastructure  Using  terraform}$
 $\color{blue} \textbf {Install  GIT}$
+```bash
+aws configure --profile eks
+```
+
+
 ````
 git clone https://github.com/mukundDeo9325/Project-Super-Mario.git
 ````
