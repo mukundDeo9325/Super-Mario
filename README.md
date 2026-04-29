@@ -107,7 +107,7 @@ aws configure --profile eks
 
 
 ````
-git clone https://github.com/mukundDeo9325/Project-Super-Mario.git
+git clone https://github.com/mukundDeo9325/Super-Mario.git
 ````
 ````
 cd Project-Super-Mario
