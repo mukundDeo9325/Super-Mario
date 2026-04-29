@@ -110,7 +110,7 @@ aws configure --profile eks
 git clone https://github.com/mukundDeo9325/Super-Mario.git
 ````
 ````
-cd Project-Super-Mario
+cd Super-Mario
 cd EKS-TF
 ````
 ````
